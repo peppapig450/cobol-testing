@@ -175,3 +175,4 @@ cython_debug/
 
 # Ignore COBOL binary
 payroll-system
+payroll
